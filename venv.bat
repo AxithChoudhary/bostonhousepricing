@@ -1,2 +1,2 @@
-D:\Projects\env\bostonhousepricing\Scripts\activate
+bostonhousepricing\Scripts\activate
 @REM D:\Projects\env\bostonhousepricing\Scripts\deactivate
